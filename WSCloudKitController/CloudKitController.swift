@@ -1,6 +1,5 @@
 //
 //  WSCloudKitController.swift
-//  spending
 //
 //  Created by Riley Crebs on 11/5/15.
 //  Copyright © 2015 Riley Crebs. All rights reserved.
